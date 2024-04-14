@@ -1,0 +1,17 @@
+{
+  "name": "banner-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "799Zeico",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
